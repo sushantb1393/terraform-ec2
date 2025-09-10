@@ -201,11 +201,9 @@ You now have a fully functional Terraform installation on an EC2 instance, capab
 ---
 ## 👨‍💻 Author
 
-**Atul Kamble**
+**Sushant Bhosale**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/atuljkamble)
-- 🐙 [GitHub](https://github.com/atulkamble)
-- 🐦 [X](https://x.com/Atul_Kamble)
-- 📷 [Instagram](https://www.instagram.com/atuljkamble)
+- 💼 [LinkedIn](www.linkedin.com/in/sushant-bhosale-3a17b8b7)
+- 🐙 [GitHub](https://github.com/sushantb1393)
 - 🌐 [Website](https://www.atulkamble.in)
 
