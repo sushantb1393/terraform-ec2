@@ -205,5 +205,4 @@ You now have a fully functional Terraform installation on an EC2 instance, capab
 
 - 💼 [LinkedIn](www.linkedin.com/in/sushant-bhosale-3a17b8b7)
 - 🐙 [GitHub](https://github.com/sushantb1393)
-- 🌐 [Website](https://www.atulkamble.in)
 
